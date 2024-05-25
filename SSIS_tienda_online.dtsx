@@ -1,4 +1,4 @@
-﻿<?xml version="2.0"?>
+﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="5/6/2024 8:20:00 PM"
